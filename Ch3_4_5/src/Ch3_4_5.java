@@ -1,4 +1,3 @@
-
 public class Ch3_4_5 {
 	public static void main(String[] args) {
 		int a = 0x3c;
