@@ -23,7 +23,6 @@ public class Ch7_4_2 {
 		Counter c = new Counter(10);
 		int counter = c.counter(2).getCounter();
 		System.out.println(counter);
-		
 
 	}
 
