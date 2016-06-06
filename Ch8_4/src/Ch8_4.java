@@ -39,6 +39,8 @@ public class Ch8_4 {
 		//s2.printAccount();
 		s2.callInterest();
 		s1.callInterest();
+		//s2.printNULL();
+		s1.printNULL();
 	}
 
 }
